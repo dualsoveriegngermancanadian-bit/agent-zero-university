@@ -10,3 +10,10 @@
 - 4-Tier Autonomous Curriculum Engine
 - Hardware USB Token Handshake Verification
 - Modular Learning Execution Pipelines
+
+## Quick Start
+
+```bash
+pip install Flask==3.0.2 Flask-Cors==4.0.0 Werkzeug==3.0.1
+python app.py
+```
